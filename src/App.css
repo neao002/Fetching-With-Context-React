@@ -1,0 +1,21 @@
+.container {
+  position: absolute;
+  left: 40%;
+}
+
+.second-container {
+  background-color: violet;
+  border: 1px solid black;
+}
+
+.hello {
+  background-color: turquoise;
+}
+
+.third-container {
+  border: 1px solid black;
+}
+
+.another-container {
+  color: yellow;
+}
